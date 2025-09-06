@@ -47,3 +47,11 @@ Sistema desenvolvido em Java para gestão de projetos, equipes e tarefas, focado
 **DAO:** Acesso e operações com banco de dados  
 **View:** Interfaces gráficas do sistema  
 **Controller:** Lógica de controle e validação
+
+## Screenshots
+
+### Tela de Login
+![Tela de Login](docs/login-screenshot1.png)
+
+### Menu Principal
+![Menu Principal](docs/login-screenshot2.png)
